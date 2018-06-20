@@ -16,9 +16,19 @@ you, even if my license text is poorly written.
 If that is not enough for your organization, I can personally grant you an
 unmodified MIT license. Please follow these steps:
 
-- Donate $500 (or more) to one of the following organizations:
-  - [Refuse Fascism](https://refusefascism.org/donate/)
+- Email "antifa-license@thejameskyle.com" with information about the entity
+  requesting an MIT license.
+- I will provide you with a dollar amount† which said entity must donate to
+  one of the following orgs in order to be granted an MIT license.
+  - [ACLU](https://www.aclu.org/)
+  - [Southern Poverty Law Center](https://www.splcenter.org)
+  - [Human Rights Campaign](http://www.hrc.org)
+  - [Refuse Fascism](https://refusefascism.org/)
   - [RAICES](http://www.raicestexas.org)
   - [Democratic Socialists of America](https://act.dsausa.org/donate/donation)
-  - [ACLU](https://www.aclu.org/donate-aclu)
-- Email "antifa-license@thejameskyle.com" with a receipt for your donation
+- Email "antifa-license@thejameskyle.com" with a receipt of your donation
+
+> † - dollar amounts may range from $0 (for entities that I like) to $500
+> (for smaller businesses and such) to $5,000-$50,000+ (for large/publicly
+> traded corporations).
+
